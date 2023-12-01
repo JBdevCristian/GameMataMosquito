@@ -2,6 +2,7 @@ body {
     background-image: url("imagens/cenario.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+    background-color: rgb(252, 143, 2);
 }
 
 .mosca1 {
